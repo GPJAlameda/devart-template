@@ -16,9 +16,11 @@
 
 ## Example Code
 
-## Links to External Libraries
+## Links to External Libraries and Resources
 
 [31 days of canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/ "31 days of canvas tutorials")
+
+[Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial?redirectlocale=en-US&redirectslug=Canvas_tutorial "Canvas Tutorial")
 
 ## Images & Videos
 
