@@ -12,13 +12,13 @@
 
 ## Link to Prototype
 
-(project_code/index_14.html)
+[Logo Draft](project_code/index_14.html "Logo Draft")
 
 ## Example Code
 
 ## Links to External Libraries
 
-[Example Link](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/ "Example Link")
+[31 days of canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/ "31 days of canvas tutorials")
 
 ## Images & Videos
 
