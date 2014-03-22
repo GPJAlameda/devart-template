@@ -12,7 +12,7 @@
 
 ## Link to Prototype
 
-[Logo Draft](project_code/index_14.html "Logo Draft")
+[Animated Logo Draft](project_code/index_14.html "Animated Logo Draft")
 
 ## Example Code
 
