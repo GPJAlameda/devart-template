@@ -22,7 +22,7 @@
 
 [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial?redirectlocale=en-US&redirectslug=Canvas_tutorial "Canvas Tutorial")
 
-[Dash General Assembly](https://dash.generalassemb.ly/ "Dash General Assembly")
+[Dash - General Assembly](https://dash.generalassemb.ly/ "Dash General Assembly")
 
 [Codecademy](http://www.codecademy.com/ "Codecademy")
 
