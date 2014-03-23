@@ -1,10 +1,12 @@
-This is the Logo I want to animate:
+after some css editing I manage to go from this:
 
-![Rafaela Alameda Logo](project_images/RafaelAlamedaLogo.jpg?raw=true "Rafaela Alameda")
+![Rafaela Alameda Step 1](project_images/Step1.jpg?raw=true "Rafaela Alameda Step 1")
 
-and this is the result of start playing with the HTML5 Canvas:
+to this:
 
-[Animated Logo Draft](project_code/index_14.html "Animated Logo Draft")
+![Rafaela Alameda Step 2](project_images/Step2.jpg?raw=true "Rafaela Alameda Step 2")
 
-I keep going, there is a lot of work to do!
+I'm happy!
+
+
 
