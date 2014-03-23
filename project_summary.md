@@ -22,5 +22,12 @@
 
 [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Canvas_tutorial?redirectlocale=en-US&redirectslug=Canvas_tutorial "Canvas Tutorial")
 
+[Dash GeneralAssembly](https://dash.generalassemb.ly/ "Dash GeneralAssembly")
+
+[Codecademy](http://www.codecademy.com/ "Codecademy")
+
+[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS Reference")
+
+
 ## Images & Videos
 
