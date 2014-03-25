@@ -1,3 +1,27 @@
+.divName{
+    position: absolute;
+    left: 175px;
+    top: 40px;
+    height: 30px;
+    width: 200px;
+    background-color: transparent;
+    text-align: center;
+    font-size: 100px;
+    font-family: tangerine,helvetica;
+}
+
+.divFirstName{
+    position: absolute;
+    left: 160px;
+    top: 470px;
+    height: 30px;
+    width: 200px;
+    background-color: transparent;
+    text-align: center;
+    font-size: 100px;
+    font-family: tangerine,helvetica;
+}
+
 .divSun {
     height: 600px;
     width: 600px;
@@ -14,33 +38,59 @@
     height: 130px;
     width: 130px;
     background-color:#cc5;
+    border-bottom: 5px solid #bc6;
+    border-top: 5px solid #bc6;
     border-radius: 55px;
+    border-width: 10px;
     position: absolute;
     left: 80px;
     top: 180px;
 }
 
 .divNeedle {
-    height: 120px;
-    width: 100px;
-    background-color:#cc5;
     position: absolute;
-    left: 95px;
-    top: 320px;    
+    left: 90px;
+    top: 285px;    
+    height:0;
+    width:50px;
+    border-top: 70px solid #cc5;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 5px solid #bc6;
+    border-radius: 20px 20px 100px 100px;
+    z-index: -1;
 }
 
 .divBody {
-    height: 50px;
-    width: 125px;
-    background-color:#cc5;
+    height: 90px;
+    width: 0px;
     position: absolute;
+    border-right: 150px solid #bc6;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
     left: 205px;
-    top: 225px;    
-}            
+    top: 185px;
+    z-index: -1;
+}
+
+.divBodyPlate {
+    height: 60px;
+    width: 0px;
+    position: absolute;
+    border-right: 135px solid #cc5;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    left: 205px;
+    top: 200px;
+    z-index: 1;
+}     
+
 .divTail {
     height: 200px;
     width: 200px;
     background-color:#cc5;
+    border-bottom: 10px solid #bc6;
+    border-top: 10px solid #bc6;    
     border-radius: 85px;    
     position: absolute;
     left: 330px;
@@ -56,12 +106,40 @@
 }
 
 .divBase {
-    height: 100px;
-    width: 100px;
-    background-color:#cc5;
+    height: 0px;
+    width: 120px;
     position: absolute;
-    left: 380px;
-    top: 350px;       
+    border-bottom: 100px solid #cc5;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-radius: 0px 0px 80px 100px;    
+    left: 350px;
+    top: 350px;
+    z-index: -1;
+}
+
+.divBasePlate {
+    height: 0px;
+    width: 120px;
+    position: absolute;
+    border-bottom: 100px solid #bc6;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    left: 350px;
+    top: 350px;
+    z-index: -2;
+}
+
+.divWheel {
+    height: 180px;
+    width: 40px;
+    background-color: rgb(150,100,150);
+    border-top: 5px solid rgb(150,75,150);
+    border-bottom: 5px solid rgb(150,75,150);    
+    position: absolute;
+    left: 520px;
+    top: 160px;
+    border-radius: 30px 30px 30px 30px;
 }
 
 .divTable {
@@ -71,4 +149,12 @@
     position: absolute;
     left: 80px;
     top: 450px;
+}
+
+.divFlyCuore {
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: -105px;
+    top: -50px;
 }
