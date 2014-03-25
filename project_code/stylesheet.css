@@ -19,6 +19,16 @@
     left: 80px;
     top: 180px;
 }
+
+.divNeedle {
+    height: 120px;
+    width: 100px;
+    background-color:#cc5;
+    position: absolute;
+    left: 95px;
+    top: 320px;    
+}
+
 .divBody {
     height: 50px;
     width: 125px;
@@ -40,7 +50,6 @@
 .divEngine {
     height: 100px;
     width: 100px;
-    /*background-color:#cc5;*/
     position: absolute;
     left: 380px;
     top: 200px;       

@@ -68,6 +68,70 @@ Wirelib.prototype.addRect = function (x, y, z, w, h) {
                  x - w / 2, y - h / 2, z);
 };
 
+Wirelib.prototype.Cuore = function () {
+    
+        var px, py, pxq, pyq, pxend, pyend;
+        if (this.clearCanvas) {
+          this.context.clearRect(0, 0, this.width, this.height);
+        }
+        
+        this.context.beginPath();
+        
+        px = this.width / 2;
+        py = this.height / 2;
+        pyend = py - this.height/4;
+        this.context.moveTo(px, pyend);
+        
+        //1
+        pxend = px + this.width/6;
+        pyend = py - this.height/2.7;
+        pxq = px + this.width/14;
+        pyq = pyend;
+        this.context.quadraticCurveTo(pxq, pyq, pxend, pyend);
+
+        //2
+        pxend = px + (this.width/2.3);
+        pyend = py;
+        pxq = pxend;
+        pyq = py - (this.height/2.7);
+        this.context.quadraticCurveTo(pxq, pyq, pxend, pyend);        
+        
+        //3
+        pxend = px;
+        pyend = py + (this.height/2.5);
+        pxq = px + (this.width/2.4);
+        pyq = pyend - (this.height/8);
+        this.context.quadraticCurveTo(pxq, pyq, pxend, pyend);
+
+        //4
+        pxend = px - (this.width/2.3);
+        pyend = py;
+        pxq = px - (this.width/2.3);
+        pyq = pyend + (this.height/4);
+        this.context.quadraticCurveTo(pxq, pyq, pxend, pyend);
+        
+        //5
+        pxend = px - this.width/6;
+        pyend = py - this.height/2.7;
+        pxq = px - this.width/2.3;
+        pyq = pyend;        
+        this.context.quadraticCurveTo(pxq, pyq, pxend, pyend);
+        
+        //6
+        pxend = px;
+        pyend = py - this.height/4;
+        pxq = px - this.width/14;
+        pyq = py - this.height/2.7;                
+        this.context.quadraticCurveTo(pxq, pyq, pxend, pyend);        
+        
+        //this.context.lineWidth = 1;
+        this.context.strokeStyle = this.strokeStyle;
+        this.context.fillStyle = "rgba(200, 0, 0, 0.5)";
+        this.context.stroke();
+        this.context.fill();
+    
+};
+
 Wirelib.prototype.addCircle = function (x, y, z, radius, segments) {
     var i, points = [], a;
     for (i = 0; i < segments; i += 1) {

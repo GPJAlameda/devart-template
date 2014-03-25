@@ -19,7 +19,7 @@ $(function() {
     });
     
     var w14 = new Wirelib($("#canvasEngine")[0]), n = 0;
-    w14.strokeStyle = "rgba(255, 0, 255, 0.5)"
+    w14.strokeStyle = "rgba(255, 0, 255, 0.5)";
     w14.addBox(0, 0, 0, 100, 100, 100);
     w14.loop(12,
         function() {
@@ -27,6 +27,10 @@ $(function() {
             w14.rotateY(Math.sin(n) * 0.2);
             n += 0.02;
         }
-    );    
+    );
     
+    var w12 = new Wirelib($("#canvasNeedle")[0]);
+    w12.strokeStyle = "rgb(255, 0, 255)";
+    w12.Cuore();              
+      
 });
