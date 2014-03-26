@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "HTML5 Canvas","CSS","Javascript","Google Fonts"
+            "HTML5 Canvas","CSS","Javascript","Google Fonts","jQuery"
         ],
         "platforms": [
             "insert platforms"
