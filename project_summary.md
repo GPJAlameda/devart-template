@@ -2,7 +2,7 @@
 
   LogifyMe
 
-## Authors
+## Author
 
   Jesus, Garcia-Parrado, GPJAlameda
 
@@ -10,9 +10,7 @@
 
   - Using HTML5 Canvas to build an animated logo.
 
-## Link to Prototype
-
-[Animated Logo Draft](project_code/index_14.html "Animated Logo Draft")
+  [Animated Logo](project_code/index_14.html "Animated Logo")
 
 ## Links to External Libraries and Resources
 
