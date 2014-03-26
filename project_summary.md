@@ -14,8 +14,6 @@
 
 [Animated Logo Draft](project_code/index_14.html "Animated Logo Draft")
 
-## Example Code
-
 ## Links to External Libraries and Resources
 
 [31 days of canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/ "31 days of canvas tutorials")
@@ -27,7 +25,3 @@
 [Codecademy](http://www.codecademy.com/ "Codecademy")
 
 [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS Reference")
-
-
-## Images & Videos
-
