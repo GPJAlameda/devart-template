@@ -6,20 +6,21 @@
     width: 200px;
     background-color: transparent;
     text-align: center;
-    font-size: 100px;
-    font-family: tangerine,helvetica;
+    font-size: 60px;
+    font-family: cutive,tangerine,helvetica;
+    
 }
 
 .divFirstName{
     position: absolute;
-    left: 160px;
+    left: 145px;
     top: 470px;
     height: 30px;
     width: 200px;
     background-color: transparent;
     text-align: center;
-    font-size: 100px;
-    font-family: tangerine,helvetica;
+    font-size: 60px;
+    font-family: cutive,tangerine,helvetica;
 }
 
 .divSun {

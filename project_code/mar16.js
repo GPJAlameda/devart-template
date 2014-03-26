@@ -1,4 +1,5 @@
 $(function() {
+    
     var points = [], numPoints = 5, i, canvas, context, width, height, gravity = 0.02, emitter;
     
     canvas = $("#canvasFlyCuore")[0];
@@ -114,18 +115,19 @@ $(function() {
     }
     
     setInterval(function() {
-        addPoint();
-        update();
-        draw();
-    }, 1000/24);
-    
-    setInterval(function() {
         var y;
         y = 20 + Math.random() * 35 + 1;
         drawCuore(emitter.x,emitter.y - y,40,40);
         context.moveTo(emitter.x,emitter.y-98);
         context.lineTo(emitter.x,emitter.y-45);
         context.stroke();        
+    }, 1000/24);    
+    
+    setInterval(function() {
+        addPoint();
+        update();
+        draw();
     }, 1000/24);
+    
     
 });
