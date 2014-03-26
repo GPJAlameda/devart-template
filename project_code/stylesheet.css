@@ -8,12 +8,13 @@
     text-align: center;
     font-size: 60px;
     font-family: cutive,tangerine,helvetica;
+    color: rgb(150,110,150);
     
 }
 
 .divFirstName{
     position: absolute;
-    left: 145px;
+    left: 142px;
     top: 470px;
     height: 30px;
     width: 200px;
@@ -21,6 +22,7 @@
     text-align: center;
     font-size: 60px;
     font-family: cutive,tangerine,helvetica;
+    color: rgb(150,110,150);    
 }
 
 .divSun {
@@ -153,6 +155,14 @@
 }
 
 .divFlyCuore {
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: -105px;
+    top: -50px;
+}
+
+.divStitchCuore {
     height: 500px;
     width: 500px;
     position: absolute;
