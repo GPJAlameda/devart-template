@@ -51,7 +51,7 @@ My first attempt using Bezier curves is a bit frustrating, I'm using pencil and 
 
 I turn to use quadratic curves, maybe to calculate a single control point by curve is a bit more simple.
 
-I get my first curve drawn, then another one and another one, Bingo! it works, even if I have to play a bit with the rations, definitely is more intuitive for me.
+I get my first curve drawn, then another one and another one, Bingo! it works, even if I have to play a bit with the numbers, definitely is more intuitive for me.
 
 To draw the quadratic cuore was not easy at all, I have had to use paper and pencil:
 
