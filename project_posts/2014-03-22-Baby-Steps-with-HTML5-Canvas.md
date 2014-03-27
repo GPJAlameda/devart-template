@@ -4,7 +4,7 @@ Two weeks gone and no progress with the project, the worst part is I didn't dedi
 
 This time I've check if I can do what I've in my mind and the results looks promising. Small crisis solved!
 
-## Changing the approach
+## Changing the approach to Agile
 
 
 
