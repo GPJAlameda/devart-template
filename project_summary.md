@@ -36,6 +36,7 @@
 
 	Ok mom, meanwhile you work on your designs and make grow your business locally, I'm going to start the set up of your online shop.
 
+<<<<<<< HEAD
 	That's how the idea for the logo comes to my mind: "Rafaela Alameda, tons of love on every stitch".
 
 	I'm not happy at all with the first version, you can see a picture if you continue read on. I'm sure that working a bit on the logo I can make the message more clear.
@@ -79,4 +80,3 @@
 	Here where I solve specific concepts about CSS positioning.
 
 	[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS Reference")
-
