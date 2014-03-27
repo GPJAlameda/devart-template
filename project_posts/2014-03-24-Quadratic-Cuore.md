@@ -1,4 +1,3 @@
-
 ## Wire a heart?
 
 Until now, the challenge was to understand the library already implemented (wirelib_0.3.js), but I recognize that a lot work was done in advance.
@@ -41,13 +40,24 @@ But if I'm not able to draw a resizable heart I have nothing, so I decided to fo
 
 ## A small stroke for a man ...
 
+I see two possibilities to draw the heart:
 
+- Using arc and lineTo functions, but I guess the result is not going to be very nice, too sharp maybe.
+- Using Bezier and quadratic curves, is more like how it could be done using adove illustrator, but I'm not going to have the same references and functionalities.
 
-To draw a cuore was not easy at all, finally I have had to use paper and pencil:
+Tough decisión.
+
+My first attempt using Bezier curves is a bit frustrating, I'm using pencil and paper to calcute the control points, and is a nightmare!
+
+I turn to use quadratic curves, maybe to calculate a single control point by curve is a bit more simple.
+
+I get my first curve drawn, then another one and another one, Bingo! it works, even if I have to play a bit with the rations, definitely is more intuitive for me.
+
+To draw the quadratic cuore was not easy at all, I have had to use paper and pencil:
 
 ![Quadratic Cuore](project_images/cuore.jpg?raw=true "Quadratic Cuore")
 
-But I manage to get something decent:
+But finally I manage to get something decent:
 
 ![Rafaela Alameda Step 3](project_images/step3.jpg?raw=true "Rafaela Alameda Step 3")
 
