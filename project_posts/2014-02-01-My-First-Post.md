@@ -2,7 +2,7 @@
 
 I was four years old when someone take this picture, 
 
-![I can spend hours this way](../project_images/cover.jpg?raw=true)
+![I can spend hours this way](../project_images/concentration.jpg?raw=true)
 
 but I still remember how the water hit my ankles and goes through my feet, again and again. 
 
