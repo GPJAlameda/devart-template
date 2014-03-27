@@ -2,7 +2,11 @@
 
 Last day I manage to understand how the animations works, and start take control of final result being shown. I have some tweaks in mind, but I'm going to put it on hold by the moment, because the next concern I want to address is how to position the animations in order to get the global composition.
 
-after some css editing I manage to go from this:
+In order to refresh css composition knowledge was great to revisit Dash project:
+
+[Dash - General Assembly](https://dash.generalassemb.ly/ "Dash General Assembly")
+
+once I found what I need and after some css editing I manage to go from this:
 
 ![Rafaela Alameda Step 1](project_images/step1.jpg?raw=true "Rafaela Alameda Step 1")
 
