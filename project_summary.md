@@ -20,7 +20,7 @@ I have done tons of things that fulfil these requirements. But I choose to devel
 
 ## Author
 
-Jesus, Garcia-Parrado, @gpjalameda
+Jesus, Garcia-Parrado, [@gpjalameda](https://twitter.com/GPJAlameda "@gpjalameda"), [Lux Design Works](www.luxdesignworks.com "Lux Design Works")
 
 ## Project Description
 
