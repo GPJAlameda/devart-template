@@ -30,9 +30,9 @@
 
 	There are only two things that are present in all of designs:
 
-	* Three shapes that she sews to every single bag, a circle, a rhombus and a heart. I guess it has a hidden meaning, but she doesn't want to share it with me, can you believe it?
+	- Three shapes that she sews to every single bag, a circle, a rhombus and a heart. I guess it has a hidden meaning, but she doesn't want to share it with me, can you believe it?
 
-	* The LOVE she puts on doing it, the love she put on every stitch and you can feel when you have the bag in your hands.
+	- The LOVE she puts on doing it, the love she put on every stitch and you can feel when you have the bag in your hands.
 
 	Ok mom, meanwhile you work on your designs and make grow your business locally, I'm going to start the set up of your online shop.
 
@@ -44,17 +44,17 @@
 
   	Here is the link to the web page inside Github, click open to make it run.
 
- 	[Rafaela Alameda Logo](project_code/index_14.html)
+ 	[Rafaela Alameda Logo](project_code/index_14.html "Rafaela Alameda Logo")
 
  	Following the list of files that make part of the project and a short description:
 
-	* index_14.html. Main page where I draw the animated logo.
-	* stylesheet.css. Here I define the style and use it to position the components.
- 	* jquery-1.5.min.js. Helps to easily pick up and manipulate the components inside the web page.
- 	* wirelib_0.3.js. Is the library that contains the functionality to draw wires and animate it.
- 	* mar15.js. Is where define the wire frames for the page and how they are going to move.
- 	* shapelib_0.1.js. Is the library that contains the functionality to heart shapes and animate it.
- 	* mar18.js. Is where define the heart shape animations.
+	- index_14.html. Main page where I draw the animated logo.
+	- stylesheet.css. Here I define the style and use it to position the components.
+ 	- jquery-1.5.min.js. Helps to easily pick up and manipulate the components inside the web page.
+ 	- wirelib_0.3.js. Is the library that contains the functionality to draw wires and animate it.
+ 	- mar15.js. Is where define the wire frames for the page and how they are going to move.
+ 	- shapelib_0.1.js. Is the library that contains the functionality to heart shapes and animate it.
+ 	- mar18.js. Is where define the heart shape animations.
 
 ## Links to External Libraries and Resources
 
