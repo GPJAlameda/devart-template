@@ -1,4 +1,6 @@
-# LogifyMe
+# Project Title
+
+## LogifyMe
 
 	I must confess that my initial idea was slightly different, I wanted to use HTML5 Canvas to draw my name @gpjalameda, and with the use of the animation features, transform the words strokes in a figure that I can use as a Logo. Very cool right?
 
