@@ -28,7 +28,7 @@ This time I focus on build a web page draft, put the main pieces there, and play
 
 And this is the result of start playing with the HTML5 Canvas:
 
-![[Animated Logo Draft](../project_images/step1.jpg?raw=true "Animated Logo Draft")
+![[Animated Logo Draft](project_images/step1.jpg?raw=true "Animated Logo Draft")
 
 Ok, this is working, I'm happy! 
 
