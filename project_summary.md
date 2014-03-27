@@ -16,7 +16,11 @@ Why don't to try to combine some of the stuff pending to create a new project?
 
 Why don't to take something that I'm not happy with and try to improve it?
 
-I have done tons of things that fulfil these requirements. But I choose to develop something that can help my mother's online business look better, that would help with my web design business and will make that I learn something new that I put on hold for weeks. I feel more motivated, here we go!
+I have done tons of things that fulfil these requirements. But I choose to develop something that can help my mother's online shop looks better, that would help with my web design business and will make that I learn something new that I put on hold for weeks. I feel more motivated, here we go!
+
+PS. for the curious people, here is the link to my [Mom's Shop](http://es.dawanda.com/shop/rafaelalameda?partnerid=ShopCreated&utm_source=ShopCreated&utm_medium=E-Mail&utm_campaign=ShopCreated&mail_tracking=_mail-es-shop_created-2014-02-11134 "Mom's Shop")
+
+PSS. I know, I know, still needs some work to be done, ok, stay tuned.
 
 ## Author
 
