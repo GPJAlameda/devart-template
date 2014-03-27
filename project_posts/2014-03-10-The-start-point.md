@@ -1,8 +1,10 @@
-This is the start point, 
+# The start point
 
-it is amazing what can be done with HTML5 Canvas:
+This is the start point for this project, I must confess
 
-http://www.codecademy.com/gpjalameda/codebits/RC9QqC
+I discovered HTML5 Canvas very recently, I was playing with codecademy project, you can see the result here: 
+
+![@gpjalameda](http://www.codecademy.com/gpjalameda/codebits/RC9QqC)
 
 so I'll go through these lessons from the Master Keith Peters (aka Bit-101):
 
