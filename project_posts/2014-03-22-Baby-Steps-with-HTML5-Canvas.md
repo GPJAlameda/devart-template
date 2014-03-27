@@ -12,7 +12,7 @@ With just a week a few days to deliver, I've decided to change the approach to b
 
 As I said before this time I tested my ideas before start, so I feel more comfortable and motivated with the project.
 
-## Starting with the objective in mind and taking my first steps.
+## Starting with the objective in mind and taking my first steps
 
 Ok, this is the Logo I want to animate:
 
