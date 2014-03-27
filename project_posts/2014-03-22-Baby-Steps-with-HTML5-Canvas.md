@@ -16,5 +16,7 @@ and this is the result of start playing with the HTML5 Canvas:
 
 [Animated Logo Draft](project_code/index_14.html "Animated Logo Draft")
 
+![[Animated Logo Draft](../project_images/step1.jpg?raw=true "Animated Logo Draft")
+
 I keep going, there is a lot of work to do!
 
