@@ -86,5 +86,5 @@ Here where I solve specific concepts about CSS positioning.
 
 Advice for Designers
 
-[<Hack Design>](https://hackdesign.org/ "<Hack Design>")
+[Hack Design](https://hackdesign.org/ "Hack Design")
 
