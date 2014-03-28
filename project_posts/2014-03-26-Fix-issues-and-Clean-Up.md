@@ -37,8 +37,19 @@ This is because the "mar18.js" is empty, and the old heart animation code placed
 
 It is time to rewrite and rewire. How to do this quickly and without miss anything?
 
-Google Chrome / Tools / Developer tools
+As I was trying to debug the problem early on my Chrome Browser looks this way:
 
+![Google Chrome / Tools / Developer tools](project_images/Chrome_Developer_Tools.jpg?raw=true "Google Chrome / Tools / Developer tools")
+
+I look to the console error messages increasing fast as a result of the mess I made with the files and code.
+
+Interesting.
+
+Why don't use the errors in the console as an improvised unit testing tool? The console is going to tell what is pending, what is wrong, or what I need to add. Great!
+
+It doesn't take too much to see the flying hearts again, the moment of truth, the heart needle, I add the code, run it, it works... Yeah!!
+
+Well, now looks pretty stable, although being brutally honest, I don't dedicate more time to understand why, I assume that with good practices comes good code.
 
 That's how I ended up adding a new file "shapelib_0.1.js", that allows me to have multiple instances of the library, each initialized with its own canvas. 
 
@@ -46,6 +57,17 @@ That's why also I've added the file "mar18.js" to generate shape animations in t
 
 Now the issue is solved!!
 
-## Housekeeping
+## Code Housekeeping
 
-Finally some housekeeping made me add "mar15.js" that is almost the same than "mar14.js".
+Another good practice.
+
+I add "mar15.js" that is almost the same than "mar14.js", but I prefer to remove the cube animation code even if I like it, because I think is noise adding.
+
+I leave a comment for a future improvement, I think this is clear and easy to do, but not now.
+
+Generally, I remove comment code that is not adding value or is part of tests. 
+
+Since we are using a code repository tool, is not necessary leave commented code unless it have a clear objective.
+
+Close to the finish line!
+
