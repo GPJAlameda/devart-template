@@ -52,13 +52,13 @@ Here is the link to the web page inside Github, click open to make it run.
 
 Following the list of files that make part of the project and a short description:
 
-- index_14.html. Main page where I draw the animated logo.
-- stylesheet.css. Here I define the style and use it to position the components.
-- jquery-1.5.min.js. Helps to easily pick up and manipulate the components inside the web page.
-- wirelib_0.3.js. Is the library that contains the functionality to draw wires and animate it.
-- mar15.js. Is where define the wire frames for the page and how they are going to move.
-- shapelib_0.1.js. Is the library that contains the functionality to heart shapes and animate it.
-- mar18.js. Is where define the heart shape animations.
+- index_14.html. It is the main page where I draw the animated logo.
+- stylesheet.css. Here I define the style and I use it to position the components.
+- jquery-1.5.min.js. It helps to easily pick up and manipulate the components inside the web page.
+- wirelib_0.3.js. It is the library that contains the functionality to draw wires and animate it.
+- mar15.js. It is where I define the wire frames for the page and how they are going to move.
+- shapelib_0.1.js. It is the library that contains the functionality to heart shapes and animate it.
+- mar18.js. It is where I define the heart shape animations.
 
 ## Links to External Libraries and Resources
 
@@ -83,3 +83,8 @@ I came here to solve some doubts about javascript and use the web framework to r
 Here where I solve specific concepts about CSS positioning.
 
 [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS Reference")
+
+Advice for Designers
+
+[<Hack Design>](https://hackdesign.org/ "<Hack Design>")
+
