@@ -32,7 +32,6 @@ I found an example using Tangerine font and just apply it, not hundred per cent 
 
 Too many emotions in one day, I think I'm going to stop here.
 
-
 ## Wrapping up
 
 The machine is ready to stitch cuores to the fabric, it is time for last changes and wrap up:
@@ -40,7 +39,3 @@ The machine is ready to stitch cuores to the fabric, it is time for last changes
 ![Rafaela Alameda Step 4](project_images/step4.jpg?raw=true "Rafaela Alameda Step 4")
 
 it is time to tell a the story behind the scene...
-
-
-
- 
