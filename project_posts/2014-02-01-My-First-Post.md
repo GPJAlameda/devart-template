@@ -6,11 +6,11 @@ I was four years old when someone take this picture,
 
 but I still remember how the water hit my ankles and goes through my feet, again and again. 
 
-I remember how concentrated I was on water strength to don't lose the balance.
+I remember how concentrated I was on water strength to avoid lose the balance.
 
-I grew up, and at the age of sixteen more or less, I discovered painting. I spent hours trying to put on the paper what existed only in my imagination. I was not very skillful but I enjoy it a lot, again I experienced moments of connection and full concentration.
+I grew up, and at the age of sixteen more or less, I discovered painting. I spent hours trying to put on the paper what existed only in my imagination. I was not very skillful but I enjoyed it a lot, again I experienced moments of connection and full concentration.
 
-Later on I've added programming to these of activities that makes reach this state of full concentration, even better it becomes my profession.
+Later on I've added programming to the list of activities that makes me reach this state of full concentration, even better it becomes my profession.
 
 It is the first time that I try to combine some of my favourite activities, so I feel thrilled and eager at the same time.
 
